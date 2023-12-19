@@ -5,7 +5,6 @@ const Home = () => {
     return (
         <div>
             <h2>This is Home</h2>
-            <button>Sign in Google</button>
             <Post></Post>
         </div>
     );
